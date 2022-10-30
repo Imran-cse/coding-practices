@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "*.twig": "php",
+    "vector": "cpp",
+    "iosfwd": "cpp",
+    "iomanip": "cpp",
+    "string": "cpp",
+    "map": "cpp",
+    "ostream": "cpp"
+  },
+  "editor.fontSize": 14
+}

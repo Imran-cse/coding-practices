@@ -1,0 +1,8 @@
+{
+  "C_Cpp.vcFormat.newLine.beforeOpenBrace.block": "ignore",
+  "C_Cpp.vcFormat.newLine.beforeOpenBrace.function": "sameLine",
+  "files.associations": {
+    "*.twig": "php",
+    "ostream": "cpp"
+  }
+}
