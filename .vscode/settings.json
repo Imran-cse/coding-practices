@@ -8,5 +8,6 @@
     "map": "cpp",
     "ostream": "cpp"
   },
-  "editor.fontSize": 14
+  "editor.fontSize": 14,
+  "C_Cpp.errorSquiggles": "Disabled"
 }
